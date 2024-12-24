@@ -1,3 +1,3 @@
 👋 Hi,
 
-I’m Stan Wu, a remote worker specializing in developing customized AAOS and AOSP frameworks for U.S.-based startups. I also manage services on Linode and GCP platforms while collaborating with international teams to drive projects forward. I believe that "simplicity is the ultimate sophistication" and incorporate this philosophy into my technical development and solution design.
+Hi, I’m Stan Wu, a remote engineer specializing in customized AAOS and AOSP frameworks for U.S.-based startups. I manage services on Linode and GCP while collaborating with international teams. My expertise spans Android x86 and Allwinner solutions, and I actively integrate the principle of "simplicity is the ultimate sophistication" into my work. Passionate about clean code and innovative solutions, I’m always looking to contribute to impactful projects.
