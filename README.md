@@ -16,3 +16,5 @@ full of ambiguity, yet deeply real.
 真の知性とは、単なるルールの積み重ねではなく、
 無数の経験の中に染み込む、曖昧で、それでも確かなものだということに。
 **そして私は、ずっと信じています「シンプルこそが、究極の美である」と。**
+
+[Google Play](https://play.google.com/store/apps/dev?id=5957691323678826859) | [方格子](https://vocus.cc/salon/stanwu)
